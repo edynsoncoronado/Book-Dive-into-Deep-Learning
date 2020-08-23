@@ -20,15 +20,15 @@
 To successfully apply deep learning, you must understand how to cast a problem, the mathematics of modeling, the algorithms for fitting your models to data, and the engineering techniques to implement it all.
 
 ### Resource:
-**FREE PDF download:**
-https://d2l.ai/d2l-en.pdf
-**Manual**
-https://d2l.ai/chapter_installation/index.html
-**All Notebooks (zip file):**
-https://d2l.ai/d2l-en.zip
-**Website:**
-https://d2l.ai
-**Github:**
-https://github.com/d2l-ai/d2l-en
-**Artículo:**
+**FREE PDF download:**  
+https://d2l.ai/d2l-en.pdf  
+**Manual**  
+https://d2l.ai/chapter_installation/index.html  
+**All Notebooks (zip file):**  
+https://d2l.ai/d2l-en.zip  
+**Website:**  
+https://d2l.ai  
+**Github:**  
+https://github.com/d2l-ai/d2l-en  
+**Artículo:**  
 https://www.amazon.science/latest-news/amazon-scientists-author-popular-deep-learning-book
