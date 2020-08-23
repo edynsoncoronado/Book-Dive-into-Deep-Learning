@@ -1,5 +1,9 @@
 # Dive into Deep Learning (D2L.ai)
 
+<div align="center">
+  <img src="static/img/overview.png">
+</div>
+
 **The first part covers basics and preliminaries.**  
 1. **Chapter1:** offers an introduction to deep learning.
 1. **Chapter2:** we quickly bring you up to speed on the prerequisites required for hands-on deep learning, such as how to store and manipulate data, and how to apply various numerical operations based on basic concepts from linear algebra, calculus, and probability.
