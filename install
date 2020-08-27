@@ -1,0 +1,27 @@
+
+
+Install minconda
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+sh Miniconda3-latest-Linux-x86_64.sh -b
+
+~/miniconda3/bin/conda init
+
+conda create --name d2l -y
+
+mkdir d2l-en && cd d2l-en
+
+curl https://d2l.ai/d2l-en.zip -o d2l-en.zip
+
+sudo apt install unzip
+
+unzip d2l-en.zip 
+
+conda activate d2l
+
+conda install python=3.8 pip -y
+
+pip install mxnet
+
+pip install -U d2l
+
+jupyter notebook --ip=0.0.0.0
