@@ -13,7 +13,7 @@ In each of these cases, even elite programmers are incapable of coding up soluti
 
 Our deterministic ecommerce platform, which performs according to the same business logic, no matter how much experience accrues, until the developers themselves learn and decide that it is time to update the software.
 
-**We need our programs to adapt**.
+[**We need our programs to adapt**.](https://towardsdatascience.com/machine-learning-vs-traditional-programming-c066e39b5b17)
 
 # What is Machine Learning?
 ML is the study of powerful techniques that can learn from experience.
@@ -24,5 +24,5 @@ Deep learning is just one among many popular methods for solving machine learnin
 - Deep models are deep in precisely the sense that they learn many layers of computation.
 
 # Depp Learnig vs Traditional Learning
-- One key advantage of deep learning is that it replaces not only the shallow models at the end of traditional learning pipelines, but also the labor-intensive process of feature engineering.
+- One key advantage of deep learning is that it replaces not only the shallow models at the end of traditional learning pipelines, but also the labor-intensive process of [feature engineering.](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
 - Second,  deep learning has eliminated many of the boundaries that previously separated computer vision, speech recognition, natural language processing, medical informatics, and other application areas, offering a unified set of tools for tackling diverse problems.
