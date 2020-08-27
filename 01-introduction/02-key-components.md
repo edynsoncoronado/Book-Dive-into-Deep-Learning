@@ -31,7 +31,7 @@ No matter what kind of ML problem we take on:
 	- **We usually define objective functions so that lower is better.**
 		- You can take any function **f** for which higher is better, and turn it into a new function **f'** that is qualitatively identical but for which lower is better by setting f' = -f.
 		- Because lower is better, these functions are sometimes called loss functions or cost functions.
-- The most common objective function is squared error (y−ŷ)^2.
+- The most common objective function is squared error (y−ŷ)<sup>2</sup>.
 	- For classification, the most common objective is to minimize error rate.
 - We will typically want to split the available data into two partitions: **the training data** (for fitting model parameters) and **the test data** (which is held out for evaluation).
 	- **Training Error:** The error on that data on which the model was trained.
